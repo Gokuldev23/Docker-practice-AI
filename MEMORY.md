@@ -1,0 +1,2 @@
+- [User profile](user_profile.md) — Gokul, learning Docker hands-on, Express/Node, K8s next.
+- [Teaching style](feedback_teaching_style.md) — pain-first, hands-on; user runs commands himself.
